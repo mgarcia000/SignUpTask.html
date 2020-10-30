@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <link>
+    <link href="https://fonts.googleapis.com/css?family=Dosis|Hind" rel="stylesheet">
+    <h1>Sign Up</h1>
+    <div>
+    <input type="name" class="form-control" id="nme" placeholder="Name" name="nme">
+    </div>
+    <div>
+    <input type="username" class="form-control" id="usn" placeholder="Username" name="usn">
+    </div>
+    <div>
+    <input type="email" class="form-control" id="eml" placeholder="Email" name="eml">
+    </div>
+    <div>
+    <input type="password" class="form-control" id="pwd" placeholder="Password" name="pswd">
+    </div>
+    <div>
+    <input type="password" class="form-control" id="pwd" placeholder="Confirm Password" name="pswd">
+    </div>
+ 
+<button onclick="">Submit</button>
+
+</html>
+
+
+--------------------------------------------------------------------------------
+*The code below goes in CSS*
+
+
+body{font-family: 'Dosis', sans-serif;
+  font-size:20px;\
+}
+body{
+  background-color:#E3E3E3;
+}
+body {
+    text-align: center;
+}
